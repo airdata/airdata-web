@@ -17,6 +17,4 @@ if(isset($_POST['submit']) && !empty($_POST['submit'])):
 	
 			// Transfer the value 'sent' to ajax function for showing success message.
 			echo 'sent';
-		
-
 ?>
